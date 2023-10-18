@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color:whitesmoke;
+    color:black;
+    padding: 20px;
+}
+
+li,ul,h1{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+    font-family: Arial;  
+}
+li{
+    color: black;
+    cursor: pointer;
+}
+li:hover{
+    color:red;
+}
+.introduction{
+    text-align: center;
+    background-color: rgb(247, 220, 156);
+    color: rgb(0, 0, 0);
+}
+p{
+    padding-bottom: 20px;
+}
